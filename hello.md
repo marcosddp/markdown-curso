@@ -84,6 +84,9 @@ console.log(bloqueCodigo)
 <!--to do tarea realizada-->
 * [x] Task 1
 * [x] Task 2
-* [] Task 1 <!--No realizada-->
+* [ ] Task 1 <!--No realizada [ ]-->
+
+<!--Mencionar otro usuario-->
+@faztweb :blush: :computer:
 
 
